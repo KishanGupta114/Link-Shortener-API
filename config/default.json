@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://i_kishan:i_kishan@shorturl.1zee0.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
+
