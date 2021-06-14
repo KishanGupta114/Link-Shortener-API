@@ -4,3 +4,7 @@ Content-Type: application/json
 {
   "longUrl": "https://github.com/KishanGupta114/Link-Shortener-API"
 }
+
+// click on the * Send Request * Button... That's it 
+// After that check your database collection in MongoDB...
+// Now Cheers!!!.....
